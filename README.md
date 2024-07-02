@@ -62,9 +62,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jonayeds&theme=cobalt&hide_border=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jonayeds&theme=cobalt&hide_border=false" alt="streak stats"/><br />
+<br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jonayeds&count_private=true&show_icons=true&theme=cobalt&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+<br/>
+  
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonayeds&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div> 
 
