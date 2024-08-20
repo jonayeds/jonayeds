@@ -12,7 +12,7 @@
  
  🔭 I’m currently doing **Bachelor in CS**
  
- 🌱 I’m currently learning **NODE js and Java**
+ 🌱 I’m currently learning **Mongoose and Java**
 
 💬 Ask me about **Javascript, React, Tailwind... **
 
