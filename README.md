@@ -36,11 +36,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=express" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,react,javascript,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,c" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=express,github" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,java" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,react,javascript,firebase,mui" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,c,git" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,nextjs" /><br>
 </div>
 
 <br/>
