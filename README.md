@@ -12,7 +12,7 @@
  
  🔭 I’m currently doing **Bachelor in CS**
  
- 🌱 I’m currently learning **NEXT Js and Java OOP**
+ 🌱 I’m currently learning **GSAP and Java OOP**
 
 💬 Ask me about **Javascript, React, Tailwind... **
 
