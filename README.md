@@ -12,7 +12,7 @@
  
  🔭 I’m currently doing **Bachelor in CS**
  
- 🌱 I’m currently learning **DSA and Java OOP**
+ 🌱 I’m currently learning **Redux Toolkit and JavaFx**
 
 💬 Ask me about **Javascript, React, Tailwind... **
 
