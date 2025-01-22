@@ -51,15 +51,11 @@
      <a  href="https://portfolio-e294f.firebaseapp.com/" > P O R T F O L I O
 </a>
  </div>
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/> -->
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -68,7 +64,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  <div align=center>
-<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=jonayeds&theme=cobalt" /> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonayeds&type=png" alt="🏃🏼‍♂️‍➡️" /></a>
 <br/>
 <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jonayeds&count_private=true&show_icons=true&theme=cobalt&rank_icon=github&border_radius=10" alt="readme stats" />
