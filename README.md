@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Solidity** and **Ethereum**
 
-💬 Ask me about **Javascript, React, Tailwind... **
+💬 Ask me about **Typescript, Next, Tailwind... **
 
 
  </div>
