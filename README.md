@@ -12,7 +12,7 @@
  
  🔭 I’m currently doing **Bachelor in CS**
  
- 🌱 I’m currently learning **Solidity** and **Ethereum**
+ 🌱 I’m currently learning **redux** and **next js**
 
 💬 Ask me about **Typescript, Next js, Tailwind... **
 
