@@ -1,4 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jonayeds.jonayeds" />
+<div align="center">
+    
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+</div>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jonayeds.jonayeds" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=45&duration=3000&pause=100&color=FFFFFF&background=0D1117FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=Welcome%2C+Fellow+<coders/>;I'm+Sajjad+Jonayed" />
