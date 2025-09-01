@@ -81,7 +81,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonayeds&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br/>
   <br/>
-  <img width=325 align="center" src="https://leetcard.jacoblin.cool/JpHapp6sO2?theme=nord&font=Milonga&ext=heatmap" />
+  <img width=500 align="center" src="https://leetcard.jacoblin.cool/JpHapp6sO2?theme=nord&font=Milonga&ext=heatmap"  />
 </div> 
 
 
