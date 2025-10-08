@@ -40,16 +40,53 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=prisma" /><br>
-  <img src="https://skillicons.dev/icons?i=express,github,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,java,redux,kafka" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,react,javascript,firebase,mui,typescript,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,c,git,docker,redis" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,nextjs,postgresql" /><br>
-  <img src="https://skillicons.dev/icons?i=vercel" /><br>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=prisma&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="prisma" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=aws&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="aws" />
+    <br/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=express&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="express" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="github" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=postman&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="postman" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=intellijidea&bg=%23000000&color=%2399bae1" alt="intellijidea" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=socketdotio&bg=%23000000&color=%2399bae1" alt="socketdotio" />
+    <br/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=48&bg=%23000000&color=%2399bae1" alt="html5" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=css&bg=%23000000&color=%2399bae1" alt="css" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=java&bg=%23000000&color=%2399bae1" alt="java" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=redux&bg=%23000000&color=%2399bae1" alt="redux" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=nginx&bg=%23000000&color=%2399bae1" alt="nginx" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=framer&bg=%23000000&color=%2399bae1" alt="framer" />
+    <br/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&bg=%23000000&color=%2399bae1" alt="mongodb" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=react&bg=%23000000&color=%2399bae1" alt="react" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&bg=%23000000&color=%2399bae1" alt="javascript" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&bg=%23000000&color=%2399bae1" alt="firebase" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=mui&bg=%23000000&color=%2399bae1" alt="mui" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=tsnode&bg=%23000000&color=%2399bae1" alt="tsnode" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&bg=%23000000&color=%2399bae1" alt="nodejs" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=rive&bg=%23000000&color=%2399bae1" alt="rive" />
+    <br/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&bg=%23000000&color=%2399bae1" alt="tailwindcss" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=c&bg=%23000000&color=%2399bae1" alt="c" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&bg=%23000000&color=%2399bae1" alt="cplusplus" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=git&bg=%23000000&color=%2399bae1" alt="git" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=docker&bg=%23000000&color=%2399bae1" alt="docker" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=shadcnui&bg=%23000000&color=%2399bae1" alt="shadcnui" />
+    <br/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=redis&bg=%23000000&color=%2399bae1" alt="redis" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=langgraph&bg=%23000000&color=%2399bae1" alt="langgraph" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&bg=%23000000&color=%2399bae1" alt="nextjs" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&bg=%23000000&color=%2399bae1" alt="postgresql" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=greensock&bg=%23000000&color=%2399bae1" alt="greensock" />
+    <br/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=vercel&bg=%23000000&color=%2399bae1" alt="vercel" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=sfml&bg=%23000000&color=%2399bae1" alt="sfml" />
     
 </div>
+
+
 
 
 <br/>
