@@ -45,6 +45,7 @@
 <div align="center">
     <img src="https://www.readmecodegen.com/api/social-icon?name=prisma&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="prisma" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=aws&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="aws" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=LangGraph&bg=%23000000&color=%2399bae1" alt="LangGraph" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=express&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="express" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=github&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="github" />
@@ -83,6 +84,7 @@
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=vercel&bg=%23000000&color=%2399bae1" alt="vercel" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=sfml&bg=%23000000&color=%2399bae1" alt="sfml" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=clerk&bg=%23000000&color=%2399bae1" alt="clerk" />
     
 </div>
 
