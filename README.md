@@ -110,15 +110,8 @@
 
  <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonayeds&theme=blueberry&include_all_commits=true&count_private=true&show_icons=true" alt="🏃🏼‍♂️‍➡️" /></a> 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonayeds&type=png&theme=vue-dark" alt="🏃🏼‍♂️‍➡️" /></a>
-<br/>
-<br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jonayeds&count_private=true&show_icons=true&theme=blueberry&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
 <br/>
   
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonayeds&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <br/>
   <br/>
   <img width=500 align="center" src="https://leetcard.jacoblin.cool/JpHapp6sO2?theme=nord&font=Milonga&ext=heatmap"  />
 </div> 
