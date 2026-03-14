@@ -16,9 +16,7 @@
  
  🔭 I’m currently doing **Bachelor in CS**
  
- 🌱 I’m currently learning **Testing** and **Deployement** 
-
-💬 Ask me about **Typescript, Next js, Tailwind... **
+ 🌱 I’m currently learning **Cloud Automation** and **AI/ML** 
 
 
  </div>
