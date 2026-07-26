@@ -16,7 +16,7 @@
  
  🔭 I’m currently doing **Bachelor in CS**
  
- 🌱 I’m currently learning **Cloud Automation** and **AI/ML** 
+ 🌱 I’m currently working on **IOT** and applied **Deep Learning** Projects
 
 
  </div>
