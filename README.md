@@ -44,12 +44,16 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=prisma&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="prisma" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=aws&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="aws" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=LangChain&bg=%23000000&color=%2399bae1" alt="LangChain" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=expo&bg=%23000000&color=%2399bae1" alt="Expo" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=claude&bg=%23000000&color=%2399bae1" alt="Claude" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=express&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="express" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=github&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="github" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=postman&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="postman" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=intellijidea&bg=%23000000&color=%2399bae1" alt="intellijidea" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=socketdotio&bg=%23000000&color=%2399bae1" alt="socketdotio" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=posthog&bg=%23000000&color=%2399bae1" alt="Posthog" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=githubactions&bg=%23000000&color=%2399bae1" alt="Github Actions" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=48&bg=%23000000&color=%2399bae1" alt="html5" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=css&bg=%23000000&color=%2399bae1" alt="css" />
@@ -57,6 +61,8 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=redux&bg=%23000000&color=%2399bae1" alt="redux" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=nginx&bg=%23000000&color=%2399bae1" alt="nginx" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=framer&bg=%23000000&color=%2399bae1" alt="framer" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=numpy&bg=%23000000&color=%2399bae1" alt="Numpy" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=githubcopilot&bg=%23000000&color=%2399bae1" alt="Copilot" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&bg=%23000000&color=%2399bae1" alt="mongodb" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=react&bg=%23000000&color=%2399bae1" alt="react" />
@@ -66,6 +72,7 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=tsnode&bg=%23000000&color=%2399bae1" alt="tsnode" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&bg=%23000000&color=%2399bae1" alt="nodejs" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=rive&bg=%23000000&color=%2399bae1" alt="rive" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=opengl&bg=%23000000&color=%2399bae1" alt="OpenGL" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&bg=%23000000&color=%2399bae1" alt="tailwindcss" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=c&bg=%23000000&color=%2399bae1" alt="c" />
@@ -73,16 +80,22 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=git&bg=%23000000&color=%2399bae1" alt="git" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=docker&bg=%23000000&color=%2399bae1" alt="docker" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=shadcnui&bg=%23000000&color=%2399bae1" alt="shadcnui" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=python&bg=%23000000&color=%2399bae1" alt="Python" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=googlecolab&bg=%23000000&color=%2399bae1" alt="Colab" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=redis&bg=%23000000&color=%2399bae1" alt="redis" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=langgraph&bg=%23000000&color=%2399bae1" alt="langgraph" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&bg=%23000000&color=%2399bae1" alt="nextjs" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&bg=%23000000&color=%2399bae1" alt="postgresql" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=greensock&bg=%23000000&color=%2399bae1" alt="greensock" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=coderabbit&bg=%23000000&color=%2399bae1" alt="CodeRabbit" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&bg=%23000000&color=%2399bae1" alt="Bash" />
     <br/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=vercel&bg=%23000000&color=%2399bae1" alt="vercel" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=sfml&bg=%23000000&color=%2399bae1" alt="sfml" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=clerk&bg=%23000000&color=%2399bae1" alt="clerk" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&bg=%23000000&color=%2399bae1" alt="Pytorch" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=drizzle&bg=%23000000&color=%2399bae1" alt="Drizzle" />
     
 </div>
 
