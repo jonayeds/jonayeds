@@ -28,10 +28,9 @@
   </a>
   <a href="https://www.linkedin.com/in/sajjad-jonayed/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-<!--   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
-  </a> -->
+  </a>
+
+
 </div>
 
  <hr/>
@@ -122,7 +121,7 @@
  <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonayeds&theme=blueberry&include_all_commits=true&count_private=true&show_icons=true" alt="🏃🏼‍♂️‍➡️" /></a> 
 <br/>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonayeds&border_radius=0&theme=blueberry" target="_blank" />
   <br/>
   <img width=500 align="center" src="https://leetcard.jacoblin.cool/JpHapp6sO2?theme=nord&font=Milonga&ext=heatmap"  />
 </div> 
