@@ -40,15 +40,15 @@
 
 
 <div align="center">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=prisma&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="prisma" />
-    <img src="https://www.readmecodegen.com/api/social-icon?name=aws&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="aws" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=prisma&bg=%23000000&color=%2399bae1" alt="prisma" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=aws&bg=%23000000&color=%2399bae1" alt="aws" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=LangChain&bg=%23000000&color=%2399bae1" alt="LangChain" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=expo&bg=%23000000&color=%2399bae1" alt="Expo" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=claude&bg=%23000000&color=%2399bae1" alt="Claude" />
     <br/>
-    <img src="https://www.readmecodegen.com/api/social-icon?name=express&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="express" />
-    <img src="https://www.readmecodegen.com/api/social-icon?name=github&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="github" />
-    <img src="https://www.readmecodegen.com/api/social-icon?name=postman&bg=%23f3f4f6&theme=dark&color=%2399bae1" alt="postman" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=express&bg=%23000000&color=%2399bae1" alt="express" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github&bg=%23000000&color=%2399bae1" alt="github" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=postman&bg=%23000000&color=%2399bae1" alt="postman" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=intellijidea&bg=%23000000&color=%2399bae1" alt="intellijidea" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=socketdotio&bg=%23000000&color=%2399bae1" alt="socketdotio" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=posthog&bg=%23000000&color=%2399bae1" alt="Posthog" />
